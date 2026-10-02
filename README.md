@@ -2,7 +2,7 @@
 
 > An AI agent that monitors a queue of support cases, scores them by age and severity, decides the correct escalation tier (T1 → T2 → T3), and auto-drafts a tier-appropriate escalation email — running on a schedule, hands-free.
 
-**Live demo:** _[add Streamlit link here]_ · **Built by:** [Mohammed Abdul Najeeb](https://github.com/Najeeb-AI-bots)
+**Live demo:** _https://escalaflow.streamlit.app_· **Built by:** [Mohammed Abdul Najeeb](https://github.com/Najeeb-AI-bots)
 
 > 💡 This is an open-source demonstration of a pattern I built in production at Amazon — an autonomous escalation system serving 7,000+ users that cut manual escalation effort by ~80%. All data here is synthetic.
 

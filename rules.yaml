@@ -1,0 +1,11 @@
+# EscalaFlow tier rules — edit freely, the app reads this at runtime.
+t1_days: 7      # escalate to Tier 1 (Team Lead) after this many effective days open
+t2_days: 14     # escalate to Tier 2 (Manager)
+t3_days: 30     # escalate to Tier 3 (Senior Leadership)
+
+# Severity accelerates escalation (higher weight = escalates sooner).
+severity_weights:
+  low: 1
+  medium: 2
+  high: 3
+  critical: 4

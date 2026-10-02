@@ -1,0 +1,23 @@
+case_id,opened_date,severity,status,owner,subject
+CS-21402824,2026-09-10,low,Awaiting Customer,j.dsouza,Shipment stuck in transit
+CS-21402679,2026-09-27,low,Pending Internal,a.khan,Payment not reflecting in account
+CS-21404582,2026-09-29,medium,Open,j.dsouza,Inventory sync delay
+CS-21404611,2026-09-21,critical,Awaiting Customer,a.khan,API integration error
+CS-21407924,2026-09-05,high,Awaiting Customer,s.ali,Settlement report mismatch
+CS-21406514,2026-09-01,low,Open,t.george,Listing suppressed unexpectedly
+CS-21406635,2026-09-23,high,Open,n.rao,Inventory sync delay
+CS-21407201,2026-09-29,low,Awaiting Customer,p.nair,Settlement report mismatch
+CS-21402139,2026-09-05,low,In Progress,m.varghese,Refund delay escalation
+CS-21404814,2026-08-28,low,Pending Internal,m.varghese,Policy clarification request
+CS-21406977,2026-09-10,medium,Awaiting Customer,p.nair,Settlement report mismatch
+CS-21405374,2026-09-10,low,In Progress,j.dsouza,API integration error
+CS-21407216,2026-09-19,high,In Progress,p.nair,Account access locked
+CS-21401525,2026-09-26,high,Pending Internal,m.varghese,Refund delay escalation
+CS-21406155,2026-09-26,medium,Pending Internal,t.george,Policy clarification request
+CS-21405339,2026-09-27,medium,In Progress,m.varghese,Order cancellation stuck
+CS-21407543,2026-08-21,high,In Progress,s.ali,Return label not generating
+CS-21402489,2026-09-19,low,Open,s.ali,API integration error
+CS-21407916,2026-09-01,low,Pending Internal,t.george,Policy clarification request
+CS-21405119,2026-09-17,low,Open,m.varghese,Data export timeout
+CS-21405808,2026-09-29,critical,In Progress,n.rao,Payment not reflecting in account
+CS-21405315,2026-09-05,medium,Open,m.varghese,Return label not generating
